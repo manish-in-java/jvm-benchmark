@@ -1,8 +1,4 @@
-[![Build Status](https://drone.io/github.com/manish-in-java/jvm-benchmark/status.png)](https://drone.io/github.com/manish-in-java/jvm-benchmark/latest)
-
-[![Build Status](https://codeship.com/projects/ac168df0-f822-0132-8ade-22801fbd7bef/status?branch=master)](https://codeship.com/projects/86533)
-
-# Overview
+# Overview [![Build status](https://drone.io/github.com/manish-in-java/jvm-benchmark/status.png)](https://drone.io/github.com/manish-in-java/jvm-benchmark/latest) [![Build status](https://codeship.com/projects/ac168df0-f822-0132-8ade-22801fbd7bef/status?branch=master)](https://codeship.com/projects/86533)
 This is a collection of micro-benchmarks that can be used to measure the performance
 offered by different Java Virtual Machines (JVMs).  The objective is to quantify the
 execution time and throughput of different JVMs so that they can be compared to each
